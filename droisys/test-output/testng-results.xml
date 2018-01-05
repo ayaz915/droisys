@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HomePage" duration-ms="1150" started-at="2017-12-22T10:21:57Z" finished-at="2017-12-22T10:21:58Z">
+    <groups>
+    </groups>
+    <test name="Search" duration-ms="1150" started-at="2017-12-22T10:21:57Z" finished-at="2017-12-22T10:21:58Z">
+      <class name="com.indago.ManageDocuments.Search">
+        <test-method status="PASS" signature="checkSuiteSkip()[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" name="checkSuiteSkip" is-config="true" duration-ms="1524" started-at="2017-12-22T15:51:55Z" finished-at="2017-12-22T15:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuiteSkip -->
+        <test-method status="PASS" signature="checkTestSkip()[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" name="checkTestSkip" is-config="true" duration-ms="32" started-at="2017-12-22T15:51:57Z" finished-at="2017-12-22T15:51:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTestSkip -->
+        <test-method status="PASS" signature="testData(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" test-instance-name="Search (QA_Search_admin_Chrome)" name="testData" is-config="true" duration-ms="4" started-at="2017-12-22T15:51:57Z" finished-at="2017-12-22T15:51:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.indago.ManageDocuments.Search.Search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@43df23d3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="Search(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" test-instance-name="Search (QA_Search_admin_Chrome)" name="Search" duration-ms="117" started-at="2017-12-22T15:51:57Z" data-provider="getTestData" finished-at="2017-12-22T15:51:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QA_Search_admin_Firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://dev.indago.droisys.info/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[indago.admin@droisys.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[indago@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" test-instance-name="Search (QA_Search_admin_Chrome)" name="reportDataSetResult" is-config="true" duration-ms="590" started-at="2017-12-22T15:51:57Z" finished-at="2017-12-22T15:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="Search(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" test-instance-name="Search (QA_Search_admin_Chrome)" name="Search" duration-ms="3" started-at="2017-12-22T15:51:58Z" data-provider="getTestData" finished-at="2017-12-22T15:51:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QA_Search_admin_Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://dev.indago.droisys.info/]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[indago.admin@droisys.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[indago@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Hardik]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method status="PASS" signature="testData(java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" test-instance-name="Search (QA_Search_admin_Chrome)" name="testData" is-config="true" duration-ms="0" started-at="2017-12-22T15:51:58Z" finished-at="2017-12-22T15:51:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.indago.ManageDocuments.Search.Search(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@6d60fe40]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="reportDataSetResult()[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" test-instance-name="Search (QA_Search_admin_Chrome)" name="reportDataSetResult" is-config="true" duration-ms="216" started-at="2017-12-22T15:51:58Z" finished-at="2017-12-22T15:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportDataSetResult -->
+        <test-method status="PASS" signature="reportTestResult()[pri:0, instance:com.indago.ManageDocuments.Search@5622fdf]" name="reportTestResult" is-config="true" duration-ms="167" started-at="2017-12-22T15:51:58Z" finished-at="2017-12-22T15:51:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTestResult -->
+      </class> <!-- com.indago.ManageDocuments.Search -->
+    </test> <!-- Search -->
+  </suite> <!-- HomePage -->
+  <suite name="Indago" duration-ms="0" started-at="2017-12-22T10:21:58Z" finished-at="2017-12-22T10:21:58Z">
+    <groups>
+    </groups>
+  </suite> <!-- Indago -->
+</testng-results>

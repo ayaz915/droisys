@@ -1,0 +1,65 @@
+2017-12-20 15:14:12,340 INFO  [-->] Loading Property files 
+2017-12-20 15:14:12,343 INFO  [-->] Loaded Property files successfully 
+2017-12-20 15:14:12,344 INFO  [-->] Loading XLS Files 
+2017-12-20 15:14:14,708 INFO  [-->] Loaded XLS Files successfully 
+2017-12-20 15:14:14,708 INFO  [-->] Checking Runmode of HomePage suite 
+2017-12-20 15:14:15,048 INFO  [-->] ================================ Executing QA_Search_admin_Firefox====================================================== 
+2017-12-20 15:14:15,049 INFO  [-->] ================================================================================================================================================== 
+2017-12-20 15:14:15,049 INFO  [-->] Opening Firefox Browser 
+2017-12-20 15:14:28,765 INFO  [-->] Firefox browser started 
+2017-12-20 15:14:28,766 INFO  [-->] Navigating to URL--:http://qa.indago.droisys.info/ 
+2017-12-20 15:14:51,058 INFO  [-->] login into 
+2017-12-20 15:14:52,806 INFO  [-->] ScreenShot is captured and stored at C:\Users\Ayaz\workspace\indago\Screenshots\HomePage12-2017-20 15.14.51.jpg 
+2017-12-20 15:14:53,241 INFO  [-->] Entering the value in:-- txtbx_userName_xpath 
+2017-12-20 15:14:53,725 INFO  [-->] Entering the value in:-- txtbx_passWord_id 
+2017-12-20 15:14:54,517 INFO  [-->] Clicking on:-- btn_signIn_xpath 
+2017-12-20 15:14:56,066 INFO  [-->] Waiting for the text to display 
+2017-12-20 15:15:56,213 INFO  [-->] Loading Property files 
+2017-12-20 15:15:56,216 INFO  [-->] Loaded Property files successfully 
+2017-12-20 15:15:56,216 INFO  [-->] Loading XLS Files 
+2017-12-20 15:15:57,732 INFO  [-->] Loaded XLS Files successfully 
+2017-12-20 15:15:57,733 INFO  [-->] Checking Runmode of HomePage suite 
+2017-12-20 15:15:57,971 INFO  [-->] ================================ Executing QA_Search_admin_Firefox====================================================== 
+2017-12-20 15:15:57,971 INFO  [-->] ================================================================================================================================================== 
+2017-12-20 15:15:57,972 INFO  [-->] Opening Firefox Browser 
+2017-12-20 15:16:09,433 INFO  [-->] Firefox browser started 
+2017-12-20 15:16:09,434 INFO  [-->] Navigating to URL--:http://dev.indago.droisys.info/ 
+2017-12-20 15:16:15,953 INFO  [-->] login into 
+2017-12-20 15:16:16,814 INFO  [-->] ScreenShot is captured and stored at C:\Users\Ayaz\workspace\indago\Screenshots\HomePage12-2017-20 15.16.15.jpg 
+2017-12-20 15:16:17,000 INFO  [-->] Entering the value in:-- txtbx_userName_xpath 
+2017-12-20 15:16:17,517 INFO  [-->] Entering the value in:-- txtbx_passWord_id 
+2017-12-20 15:16:17,725 INFO  [-->] Clicking on:-- btn_signIn_xpath 
+2017-12-20 15:16:31,671 INFO  [-->] Waiting for the text to display 
+2017-12-20 15:16:31,809 INFO  [-->] Clicking on:-- btn_manageDocuments_xpath 
+2017-12-20 15:16:32,161 INFO  [-->] Waiting for the text to display 
+2017-12-21 15:09:48,091 INFO  [-->] Loading Property files 
+2017-12-21 15:09:48,102 INFO  [-->] Loaded Property files successfully 
+2017-12-21 15:09:48,103 INFO  [-->] Loading XLS Files 
+2017-12-21 15:09:49,095 INFO  [-->] Loaded XLS Files successfully 
+2017-12-21 15:09:49,095 INFO  [-->] Checking Runmode of HomePage suite 
+2017-12-21 15:09:49,219 INFO  [-->] ================================ Executing QA_Search_admin_Firefox====================================================== 
+2017-12-21 15:09:49,219 INFO  [-->] ================================================================================================================================================== 
+2017-12-21 15:09:50,084 INFO  [-->] ================================ Executing QA_Search_admin_Chrome====================================================== 
+2017-12-21 15:09:50,085 INFO  [-->] ================================================================================================================================================== 
+2017-12-21 15:19:57,840 INFO  [-->] Loading Property files 
+2017-12-21 15:19:57,841 INFO  [-->] Loaded Property files successfully 
+2017-12-21 15:19:57,842 INFO  [-->] Loading XLS Files 
+2017-12-21 15:19:58,624 INFO  [-->] Loaded XLS Files successfully 
+2017-12-21 15:19:58,624 INFO  [-->] Checking Runmode of HomePage suite 
+2017-12-21 15:19:58,742 INFO  [-->] ================================ Executing QA_Search_admin_Firefox====================================================== 
+2017-12-21 15:19:58,742 INFO  [-->] ================================================================================================================================================== 
+2017-12-21 15:19:59,174 INFO  [-->] ================================ Executing QA_Search_admin_Chrome====================================================== 
+2017-12-21 15:19:59,175 INFO  [-->] ================================================================================================================================================== 
+2017-12-21 15:23:15,868 INFO  [-->] Loading Property files 
+2017-12-21 15:23:15,869 INFO  [-->] Loaded Property files successfully 
+2017-12-21 15:23:15,870 INFO  [-->] Loading XLS Files 
+2017-12-21 15:23:16,679 INFO  [-->] Loaded XLS Files successfully 
+2017-12-21 15:23:16,679 INFO  [-->] Checking Runmode of HomePage suite 
+2017-12-21 15:23:16,800 INFO  [-->] ================================ Executing QA_Search_admin_Firefox====================================================== 
+2017-12-21 15:23:16,800 INFO  [-->] ================================================================================================================================================== 
+2017-12-21 15:23:17,244 INFO  [-->] ================================ Executing QA_Search_admin_Chrome====================================================== 
+2017-12-21 15:23:17,244 INFO  [-->] ================================================================================================================================================== 
+2017-12-21 15:23:21,730 INFO  [FOUserAgent] Rendered page #1. 
+2017-12-21 15:23:21,772 INFO  [FOUserAgent] Rendered page #2. 
+2017-12-21 15:23:22,291 INFO  [FOUserAgent] Rendered page #1. 
+2017-12-21 15:23:22,327 INFO  [FOUserAgent] Rendered page #2. 

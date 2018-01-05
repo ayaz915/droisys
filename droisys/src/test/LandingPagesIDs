@@ -1,0 +1,52 @@
+for-> AntiSat,
+
+Address->                                               lp_txtbx_streetAddress_id=address
+Zip->                                                   lp_txtbx_zipCode_id=zip-code
+CheckAvailibility->                                     lp_btn_checkavailability_id=checkavailability
+
+for-> lfo7nLFO ,  lfo8nLFO, lfo9nLFO
+
+Address->                                           lp_txtbx_streetAddress_id=addressField
+Zip->                                               lp_txtbx_zipCode_id=zipCodeField
+Go button->                                         lp_btn_go_id=LocalizationGO
+
+
+
+for->PlatChicInt, PlatChicRes
+
+Address->                                             lp_txtbx_streetAddress_id=address
+Zip->                                                 lp_txtbx_zipCode_id=zip
+find deals->                                          lp_btn_Find_Deals_Int_id=Find_Deals_Int
+find deals->                                          lp_btn_Find_Deals_Int_id=Find_Deals_TR
+
+For SPI100Mb, SPIInternet
+
+Address->                                             lp_txtbx_streetAddress_id=address
+Zip->                                                 lp_txtbx_zipCode_id=zip-code
+Go button->                                           lp_btn_go_id=LocalizationGO
+
+
+
+For-> TP100Mb, Triple Play
+
+Address->                                         lp_txtbx_streetAddress_id=addressField
+Zip->                                             lp_txtbx_zipCode_id=zipCodeField
+Go button->                                       lp_btn_go_id=LocalizationGO
+
+
+
+
+
+
+#-----TriplePlay,lfo9nLFO,lfo8nLFO,lfo7nLFO,TP100Mb, AntiSat,PlatChicRes,PlatChicInt---------#
+ 
+lp_txtbx_streetAddress_name=address1
+#lp_txtbx_zipCode_xpath=(//input[@name='zip'])[2]
+lp_txtbx_zipCode_id=zip-code
+#-----AntiSat			
+lp_btn_checkavailability_id=checkavailability
+#-----PlatChicRes
+lp_txtbx_zipPlatChicRes&Int_id=zip
+lp_btn_Find_Deals_TR_id=Find_Deals_TR
+#-----PlatChicInt 
+lp_btn_Find_Deals_Int_id=Find_Deals_Int

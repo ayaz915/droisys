@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [submitAdd]">
+  <test name="mobileAdd(failed)">
+    <classes>
+      <class name="com.olx.submitAdd.TestCase_carAdd">
+        <methods>
+          <include name="checkTestSkip"/>
+          <include name="reportTestResult"/>
+          <include name="checkSuiteSkip"/>
+          <include name="reportDataSetResult"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- com.olx.submitAdd.TestCase_carAdd -->
+      <class name="com.olx.submitAdd.TestCase_mobileAdd">
+        <methods>
+          <include name="reportTestResult"/>
+          <include name="reportDataSetResult"/>
+          <include name="nonAutomatedBuyFlow" invocation-numbers="1"/>
+          <include name="checkTestSkip"/>
+          <include name="testData"/>
+        </methods>
+      </class> <!-- com.olx.submitAdd.TestCase_mobileAdd -->
+    </classes>
+  </test> <!-- mobileAdd(failed) -->
+</suite> <!-- Failed suite [submitAdd] -->

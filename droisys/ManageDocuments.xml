@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HomePage">
+
+<test name="Search">
+    <classes>
+        <class name="com.indago.ManageDocuments.Search" ></class>  
+    </classes>
+</test>
+<!-- <test name="SaveSearch">
+    <classes>
+        <class name="com.indago.ManageDocuments.SaveSearch" ></class>  
+    </classes>
+</test> -->
+
+</suite>
+

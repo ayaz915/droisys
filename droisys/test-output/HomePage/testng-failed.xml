@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [HomePage]">
+  <parameter name="pdfngreport-properties" value="pdfngreport.properties"/>
+  <listeners>
+    <listener class-name="com.uttesh.pdfngreport.PDFReportListener"/>
+  </listeners>
+  <test name="Login(failed)">
+    <classes>
+      <class name="com.indago.HomePage.SignUp">
+        <methods>
+          <include name="checkSuiteSkip"/>
+          <include name="checkTestSkip"/>
+          <include name="testData"/>
+          <include name="reportDataSetResult"/>
+          <include name="reportTestResult"/>
+        </methods>
+      </class> <!-- com.indago.HomePage.SignUp -->
+      <class name="com.indago.HomePage.Login">
+        <methods>
+          <include name="reportDataSetResult"/>
+          <include name="ComBuyFlow" invocation-numbers="1"/>
+          <include name="reportTestResult"/>
+          <include name="testData"/>
+          <include name="checkTestSkip"/>
+        </methods>
+      </class> <!-- com.indago.HomePage.Login -->
+    </classes>
+  </test> <!-- Login(failed) -->
+</suite> <!-- Failed suite [HomePage] -->
